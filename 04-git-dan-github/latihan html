@@ -10,7 +10,15 @@
     <P>priska zizah aulida yahya</P>
    <a href="https://wpucourse.id">wpucourse.id</a>
    <P>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa soluta itaque aut quo voluptatum iure voluptas officia magnam dolorem accusamus facere eius nisi natus aliquid sapiente, commodi rerum possimus nulla?
-    
    </P>
+
+   <H3>Daftar item</H3>
+   <ul>
+    <li>ITEM 1
+    ITEM 2
+    ITEM 3
+    ITEM 4
+    ITEM 5</li>
+   </ul>
 </body>
 </html>
